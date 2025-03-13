@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QEC_SURVEY_PORTAL", "QEC_SURVEY_PORTAL\QEC_SURVEY_PORTAL.csproj", "{AFAC7830-9CC8-402D-BBB0-A83D25805AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFAC7830-9CC8-402D-BBB0-A83D25805AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAC7830-9CC8-402D-BBB0-A83D25805AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAC7830-9CC8-402D-BBB0-A83D25805AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAC7830-9CC8-402D-BBB0-A83D25805AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75E95091-2DF9-4E44-BC7F-A95787BEBA9D}
+	EndGlobalSection
+EndGlobal
